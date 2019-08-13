@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-[Resume]({{ site.resume_url }})
+[Resume]({{ site.resume_url }}) | [Life Pawtners]({{ site.life_pawtners_details }})
 
 ![Me](/assets/my_photo.jpg)
 * * *

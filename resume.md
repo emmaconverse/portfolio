@@ -2,7 +2,7 @@
 layout: default
 title: Resume
 ---
-[About]({{ site.baseurl }}/)
+[About]({{ site.baseurl }}/) |
 
 ## Software Developer
 #### Division of Labor, Inc. | November 2018 – Present
@@ -13,6 +13,18 @@ title: Resume
 *   Created elaborate ActiveJobs and tasks that pull data from Google Ads API and updates user data in our database when necessary on the user’s behalf
 - Major Components used in OffSite
   - Google Ads API, Devise, Honey Badger, Stripe, AASM state machines, Simple Form, Activity Notification, Sidkiq, Simple Scheduler, VCR
+
+* * *
+
+## Software Developer
+#### Carolina Code School Demo Project | November 2018
+
+*   After 9 weeks of intensive course work, I created this app in about 2.5 weeks.
+*   Using IBM Watson’s Visual Recognition program and Petfinder’s API, Life Pawtners allows users to upload images of animals they think look awesome and find local adoptable cats and dogs that are similar to the animals they love. The available pets are then mapped based on location using the Google Maps API.
+
+[Screenshots]({{ site.life_pawtners_details }})
+
+See the live app here: [Life Pawtners](https://lifepawtners.herokuapp.com/)
 
 * * *
 
