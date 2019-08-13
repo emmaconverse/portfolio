@@ -1,10 +1,9 @@
 ---
 layout: default
 title: About
-permalink: /about/
 ---
 
-[Resume](./resume.html)
+[Resume]({{ site.resume_url }})
 
 ![Me](/assets/my_photo.jpg)
 * * *

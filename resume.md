@@ -1,10 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Resume
 ---
+[About]({{ site.baseurl }}/)
 
 ## Software Developer
 #### Division of Labor, Inc. | November 2018 – Present
