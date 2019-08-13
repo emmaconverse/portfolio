@@ -11,6 +11,8 @@ layout: default
 
 Using IBM Watson’s Visual Recognition program and Petfinder’s API, Life Pawtners allows users to upload images of animals they think look awesome and find local adoptable cats and dogs that are similar to the animals they love. The available pets are then mapped based on location using the Google Maps API.
 
+See the live app here: [Life Pawtners](https://lifepawtners.herokuapp.com/)
+
 ## Screenshots
 
 #### Homepage
