@@ -2,7 +2,7 @@
 layout: default
 title: Resume
 ---
-[About]({{ site.baseurl }}/) |
+[About]({{ site.baseurl }}/) | [Life Pawtners]({{ site.life_pawtners_details }})
 
 ## Software Developer
 #### Division of Labor, Inc. | November 2018 – Present
@@ -21,6 +21,7 @@ title: Resume
 
 *   After 9 weeks of intensive course work, I created this app in about 2.5 weeks.
 *   Using IBM Watson’s Visual Recognition program and Petfinder’s API, Life Pawtners allows users to upload images of animals they think look awesome and find local adoptable cats and dogs that are similar to the animals they love. The available pets are then mapped based on location using the Google Maps API.
+*   _Ruby, Rails, HTML, JavaScript, CSS, React, jQuery, Petfinder API, IBM Watson Visual Recognition API, Google Maps API_
 
 [Screenshots]({{ site.life_pawtners_details }})
 
