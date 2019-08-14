@@ -4,6 +4,18 @@ title: Resume
 ---
 [About]({{ site.baseurl }}/) | [Life Pawtners]({{ site.life_pawtners_details }})
 
+* * *
+# Education
+
+| Carolina Code School                      | University of North Carolina at Charlotte | University of Indianapolis |
+|:------------------------------------------|:------------------------------------------|:---------------------------|
+| 2018                                      | 2016                                      | 2013                       |
+| Full time, 12-week Web Development Course | Master of Public Administration           | Bachelor of Fine Arts      |
+| Full Stack, Ruby on Rails Focus           |                                           |                            |
+
+* * *
+
+# Experience
 ## Software Developer
 #### Division of Labor, Inc. | November 2018 – Present
 
