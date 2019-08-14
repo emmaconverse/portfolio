@@ -40,7 +40,7 @@ See the live app here: [Life Pawtners](https://lifepawtners.herokuapp.com/)
 * * *
 
 ## Donor Relations Manager for Student Affairs and Parent Philanthropy
-#### Clemson Universityy | Jul 2016 – May 2017
+#### Clemson University | Jul 2016 – May 2017
 
 *   Coordinated donor appreciation events and VP of Student Affairs Executive Council and Student Affairs Development Board meetings
 *   Acted as liaison to the Vice President for Student Affairs Office for donor events, stewardship, and communication efforts
@@ -53,49 +53,3 @@ See the live app here: [Life Pawtners](https://lifepawtners.herokuapp.com/)
 *   Developed content for Niner DestiNation, mobile app for UNC Charlotte
 *   Helped facilitate the Student Orientation, Advising, and Registration (SOAR) program for new incoming students
 *   Lead and advised team of over 20 student Orientation Counselors (OCs) and helped teach their 3 credit hour leadership course
-
-
-
-
-
-
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-
-
-
-
-
-### And a nested list:
-
-- level 1 item
-- level 2 item
-- level 2 item
-  - level 3 item
-  - level 3 item
-- level 1 item
-- level 2 item
-- level 2 item
-- level 2 item
-- level 1 item
-- level 2 item
-- level 2 item
-- level 1 item
- -->
