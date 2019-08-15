@@ -2,12 +2,11 @@
 layout: default
 title: Resume
 ---
-[About]({{ site.baseurl }}/) | [Life Pawtners]({{ site.life_pawtners_details }})
+[About]({{ site.baseurl }}/) | [Life Pawtners]({{ site.life_pawtners_details }}) | **[Download Resume Here]({{ site.url }}/assets/E.Converse.ResumePDF.2019.pdf)**
 
-* * *
-# Education
+## **Education**
 
-| Carolina Code School                      | University of North Carolina at Charlotte | University of Indianapolis |
+| **Carolina Code School**                      | **University of North Carolina at Charlotte** | **University of Indianapolis** |
 |:------------------------------------------|:------------------------------------------|:---------------------------|
 | 2018                                      | 2016                                      | 2013                       |
 | Full time, 12-week Web Development Course | Master of Public Administration           | Bachelor of Fine Arts      |
@@ -15,8 +14,8 @@ title: Resume
 
 * * *
 
-# Experience
-## Software Developer
+## **Experience**
+### Software Developer
 #### Division of Labor, Inc. | November 2018 – Present
 
 *   Core engineer on OffSite, a venture backed digital marketing app
@@ -28,7 +27,7 @@ title: Resume
 
 * * *
 
-## Software Developer
+### Software Developer
 #### Carolina Code School Demo Project | November 2018
 
 *   After 9 weeks of intensive course work, I created this app in about 2.5 weeks.
@@ -41,7 +40,7 @@ See the live app here: [Life Pawtners](https://lifepawtners.herokuapp.com/)
 
 * * *
 
-## Donor Relations Manager
+### Donor Relations Manager
 #### Greenville Humane Society | May 2017 – Aug 2018
 
 *   Donor tracking through DonorPerfect, a donor management system
@@ -51,7 +50,7 @@ See the live app here: [Life Pawtners](https://lifepawtners.herokuapp.com/)
 
 * * *
 
-## Donor Relations Manager for Student Affairs and Parent Philanthropy
+### Donor Relations Manager for Student Affairs and Parent Philanthropy
 #### Clemson University | Jul 2016 – May 2017
 
 *   Coordinated donor appreciation events and VP of Student Affairs Executive Council and Student Affairs Development Board meetings
@@ -59,7 +58,7 @@ See the live app here: [Life Pawtners](https://lifepawtners.herokuapp.com/)
 
 * * *
 
-## New Student and Family Services Graduate Assistant
+### New Student and Family Services Graduate Assistant
 #### UNC Charlotte | Aug 2014 – May 2016
 
 *   Developed content for Niner DestiNation, mobile app for UNC Charlotte
