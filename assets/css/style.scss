@@ -17,6 +17,27 @@ tr {
   background-color: #f6f7f8;
 }
 
+.btn {
+  border-radius: 2px;
+}
+
+.btn--nav:hover {
+  background-color: #e5d4e0;
+  text-decoration: none;
+}
+
+.btn--nav {
+  display: inline-block;
+  border-color: #61214d;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  color: #095263;
+  margin-bottom: 1rem;
+  padding: 10px;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
+
 .main-content h1,
 .main-content h2,
 .main-content h3,

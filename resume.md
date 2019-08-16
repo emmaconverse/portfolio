@@ -2,7 +2,8 @@
 layout: default
 title: Resume
 ---
-[About]({{ site.baseurl }}/) | [Life Pawtners]({{ site.life_pawtners_details }}) | **[Download Resume Here]({{ site.url }}/assets/E.Converse.ResumePDF.2019.pdf)**
+
+**[Download Resume Here]({{ site.url }}/assets/E.Converse.ResumePDF.2019.pdf)**
 
 ## **Education**
 

@@ -5,7 +5,6 @@
 layout: default
 ---
 
-[About]({{ site.baseurl }}/) | [Resume]({{ site.resume_url }})
 
 # Life Pawtners
 

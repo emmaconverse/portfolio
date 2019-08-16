@@ -4,8 +4,6 @@ title: About
 permalink: /
 ---
 
-[Resume]({{ site.resume_url }}) | [Life Pawtners]({{ site.life_pawtners_details }})
-
 ![Me](/assets/my_photo.jpg)
 * * *
 I started my career in the visual arts, which ultimately lead to a masters degree in public administration (nonprofit management). While I loved these roles (and the arts are still so close to my heart), what I discovered about myself through my schooling and nonprofit jobs is I really excelled when it came down to the more technical and analytical aspects. I enjoy conducting research and using data to solve problems.
