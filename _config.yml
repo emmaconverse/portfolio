@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my portfolio!
 baseurl: "" # the subpath of your site, e.g. /blog
 resume_url: "/resume"
-life_pawtners_details: "/details/life_pawtners"
+life_pawtners_details: "/projects/life_pawtners"
 url: "http://www.emmaconverse.com" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: emmaconverse
 linkedin_url: https://www.linkedin.com/in/emmaconverse

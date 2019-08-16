@@ -5,6 +5,7 @@
 
 a {
   color: #095263;
+  margin: 0;
 }
 
 body {
@@ -13,12 +14,56 @@ body {
   background-color: #f9f9f9;
 }
 
+nav {
+  text-align: center;
+}
+
+nav > ul > li {
+  display: inline-block
+}
+
+nav > ul > li ul {
+  visibility: hidden;
+  position: absolute;
+  top: 105%;
+  left: 0;
+  transition: 0.2s 1s;
+}
+
+nav > ul > li:hover ul {
+  visibility: visible;
+  transition-delay: 0s;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  position: relative;
+}
+
+nav a {
+  display: block;
+}
+
 tr {
   background-color: #f6f7f8;
 }
 
-.btn {
-  border-radius: 2px;
+#active {
+  background-color: #095263;
+  color: white;
+}
+
+#active:hover {
+  background-color: #acc2c7;
+}
+
+.btn + .btn {
+  margin: 0;
 }
 
 .btn--nav:hover {
@@ -27,15 +72,9 @@ tr {
 }
 
 .btn--nav {
-  display: inline-block;
   border-color: #61214d;
-  border-style: solid;
-  border-width: 1px;
   border-radius: 2px;
   color: #095263;
-  margin-bottom: 1rem;
-  padding: 10px;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
 
 .main-content h1,
@@ -52,7 +91,7 @@ tr {
 
 .page-header {
   background-image: linear-gradient(25deg, #61214d, #831f3b);
-  height: 350px;
+  height: 250px;
   background-size: cover;
   background-position: center;
   background-color: #61214d;

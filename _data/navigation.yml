@@ -2,5 +2,8 @@
   url: /
 - title: Resume
   url: /resume
-- title: Life_Pawtners
-  url: /details/life_pawtners
+- title: Projects
+  url: '#'
+  sublinks:
+    - title: Life Pawtners
+      url: /projects/life_pawtners

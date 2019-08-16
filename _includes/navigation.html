@@ -1,5 +1,44 @@
-<div>
-  {% for entry in site.data.navigation %}
-    <a class="btn--nav" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-  {% endfor %}
-</div>
+<nav>
+  {% assign links = site.data.navigation %}
+  <ul>
+    {% for link in links %}
+      {% assign id = nil %}
+      {% if page.url == link.url %}
+        {% assign id = 'active' %}
+      {% endif %}
+
+
+
+      <li>
+        {% if link.sublinks %}
+
+          {% assign down_title = link.title | downcase %}
+          {% assign pre_sublink_id = nil %}
+          {% if page.url contains down_title %}
+            {% assign pre_sublink_id = 'active' %}
+          {% endif %}
+
+          <div id="{{ pre_sublink_id }}" class="btn btn--nav">{{ link.title }}</div>
+          {% for sublink in link.sublinks %}
+
+            {% assign sublink_id = nil %}
+            {% if page.url == sublink.url %}
+              {% assign sublink_id = 'active' %}
+            {% endif %}
+
+            <ul>
+              <li>
+                <a class="btn btn--nav btn--sub--nav" id="{{ sublink_id }}" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+              </li>
+            </ul>
+          {% endfor %}
+        {% else %}
+          <a class="btn btn--nav" id="{{ id }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+        {% endif %}
+      </li>
+
+    {% endfor %}
+    <li><a href="{{ site.github.personal_url }}" class="btn btn--nav" target="_blank">My GitHub</a></li>
+    <li><a href="{{ site.linkedin_url }}" class="btn btn--nav" target="_blank">LinkedIn</a></li>
+  </ul>
+</nav>
