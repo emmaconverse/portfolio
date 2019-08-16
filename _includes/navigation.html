@@ -18,7 +18,7 @@
             {% assign pre_sublink_id = 'active' %}
           {% endif %}
 
-          <div id="{{ pre_sublink_id }}" class="btn btn--nav">{{ link.title }}</div>
+          <div id="{{ pre_sublink_id }}" class="btn btn--nav">{{ link.title }} <span class="down_arrow">▼</span> </div>
           {% for sublink in link.sublinks %}
 
             {% assign sublink_id = nil %}
