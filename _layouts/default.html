@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -18,6 +19,8 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="../assets/css/social-circles.min.css">
+
   </head>
   <body>
     <header class="page-header" role="banner">
@@ -27,15 +30,15 @@
       </div>
     </header>
 
+    {% include navigation.html %}
     <main id="content" class="main-content" role="main">
-      {% include navigation.html %}
       {{ content }}
 
       <footer class="site-footer">
         <span class="site-footer-owner">
-          <a href="{{ site.linkedin_url }}">LinkedIn</a> |
-          <a href="{{ site.github.personal_url }}">GitHub</a> |
-          <a href="mailto:{{ site.email }}">Email</a>
+          {% include contact.html %}
+          emmaconverse.com is maintained by emma converse
+          <!-- <a class="icon-instagram social-button borderless" href="http://instagram.com/emconversehunter" target="_blank"></a> -->
         </span>
       </footer>
     </main>
