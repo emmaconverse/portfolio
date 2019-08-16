@@ -63,6 +63,10 @@ tr {
   color: #095263;
 }
 
+.btn--sub--nav {
+  font-size: 12px;
+}
+
 .contact {
   height: 50px;
 }
@@ -90,7 +94,6 @@ tr {
 .nav {
   display: inline-block;
   margin: 5px;
-  width: 50%;
 }
 
 .nav > ul > li {
@@ -100,9 +103,10 @@ tr {
 .nav > ul > li ul {
   visibility: hidden;
   position: absolute;
-  top: 105%;
+  top: 49px;
   left: 0;
   transition: 0.2s 1s;
+  right: 0;
 }
 
 .nav > ul > li:hover ul, .nav > ul > li:focus ul {
