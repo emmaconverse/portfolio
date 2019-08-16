@@ -24,7 +24,7 @@ tr {
 
 #active {
   background-color: #095263;
-  color: white;
+  color: #f9f9f9;
 }
 
 #active:hover, #active:focus {
@@ -59,6 +59,7 @@ tr {
 }
 
 .btn--nav {
+  background-color: #f6f7f8;
   border-color: #61214d;
   color: #095263;
 }
