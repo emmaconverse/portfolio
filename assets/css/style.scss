@@ -27,7 +27,7 @@ tr {
   color: white;
 }
 
-#active:hover {
+#active:hover, #active:focus {
   background-color: #acc2c7;
 }
 
@@ -37,13 +37,14 @@ tr {
   color: #4b4b4b;
   font-size: 50px;
   line-height: 25px;
+    display: inline-block;
 }
 
 .btn {
   border-radius: 2px;
 }
 
-.btn--email:hover {
+.btn--email:hover, .btn--email:focus {
   background-color: #095263;
   text-decoration: none;
 }
@@ -52,7 +53,7 @@ tr {
   margin: 0;
 }
 
-.btn--nav:hover {
+.btn--nav:hover, .btn--nav:focus {
   background-color: #e5d4e0;
   text-decoration: none;
 }
@@ -104,7 +105,7 @@ tr {
   transition: 0.2s 1s;
 }
 
-.nav > ul > li:hover ul {
+.nav > ul > li:hover ul, .nav > ul > li:focus ul {
   visibility: visible;
   transition-delay: 0s;
 }
