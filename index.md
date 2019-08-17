@@ -20,5 +20,5 @@ I'm currently looking for a new Junior to Mid-level engineering role. I love wor
 
 Outside of programming, I enjoy walking my dog, hiking, traveling with my husband, and painting.
 
-![Me](/assets/images/remy-1.jpg){:height="350px"}
-![Me](/assets/images/river.jpg){:height="350px"}
+![Me](/assets/images/remy-1.jpg){:width="45%"}
+![Me](/assets/images/river.jpg){:width="45%"}
