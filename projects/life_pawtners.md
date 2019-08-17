@@ -24,7 +24,7 @@ See the live app here: [Life Pawtners](https://lifepawtners.herokuapp.com/)
 
 * * *
 
-![home](../assets/life_pawtners_home.jpg)
+![home](../assets/images/life_pawtners_home.jpg)
 
 * * *
 
@@ -32,7 +32,7 @@ See the live app here: [Life Pawtners](https://lifepawtners.herokuapp.com/)
 
 * * *
 
-![search](../assets/life_pawtners_search.jpg)
+![search](../assets/images/life_pawtners_search.jpg)
 
 * * *
 
@@ -40,7 +40,7 @@ See the live app here: [Life Pawtners](https://lifepawtners.herokuapp.com/)
 
 * * *
 
-![details](../assets/life_pawnters_details.jpg)
+![details](../assets/images/life_pawnters_details.jpg)
 
 * * *
 
@@ -48,6 +48,6 @@ See the live app here: [Life Pawtners](https://lifepawtners.herokuapp.com/)
 
 * * *
 
-![favorites](../assets/life_pawtners_favorites.jpg)
+![favorites](../assets/images/life_pawtners_favorites.jpg)
 
 * * *
