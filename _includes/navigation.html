@@ -20,19 +20,19 @@
             {% endif %}
 
             <div id="{{ pre_sublink_id }}" class="btn btn--nav" onclick="this.focus()">{{ link.title }} <span class="down_arrow">▼</span> </div>
-            {% for sublink in link.sublinks %}
+            <ul>
+              {% for sublink in link.sublinks %}
 
               {% assign sublink_id = nil %}
               {% if page.url == sublink.url %}
                 {% assign sublink_id = 'active' %}
               {% endif %}
 
-              <ul>
                 <li>
                   <a class="btn btn--nav btn--sub--nav" id="{{ sublink_id }}" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
                 </li>
-              </ul>
-            {% endfor %}
+              {% endfor %}
+            </ul>
           {% else %}
             <a class="btn btn--nav" id="{{ id }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
           {% endif %}
