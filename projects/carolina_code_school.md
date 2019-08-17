@@ -11,7 +11,7 @@ permalink: projects/carolina_code_school
 
 I took a 12 week, full time, and immersive full stack web development course through **[Carolina Code School](https://carolinacodeschool.org/)** located in Greenville, SC. After 9 weeks of intense course work, we created final projects during the last few weeks to demo to the community.
 
-I created **[Life Pawtners]({{site.life_pawtners_details}})**, live app: **[here]({{https://lifepawtners.herokuapp.com/}})**.
+I created **[Life Pawtners]({{site.life_pawtners_details}})**, live app: **[here](https://lifepawtners.herokuapp.com/)**.
 
 Before I was able to create Life Pawtners though, I learned the basics of _HTML/CSS_. _JavaScript_, and _Ruby on Rails_.
 
