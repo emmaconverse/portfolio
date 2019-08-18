@@ -28,7 +28,7 @@ We were given mockups that we had to implement in static HTML files as close to 
 # JavaScript
 * * *
 
-We had a variety of JavaScript projects that range from analyzing text to creating calculators and shopping carts.
+We had a variety of JavaScript projects that range from analyzing text to creating **[calculators](https://github.com/emmaconverse/calculator)** and shopping carts.
 
 This is an excerpt from the basic Palindrome Detector I created on our first day of JavaScript.
 
@@ -49,13 +49,6 @@ function removeSpacesReverse(argument) {
   return argument.split("").reverse().join("").split(" ").join("")
 }
 ````
-
-I created this **[Calculator](https://github.com/emmaconverse/calculator)** based off of the standard MacBook calculator.
-
-![home](../assets/images/calculator.png){:width="20%"}
-
-
-
 * * *
 # Ruby on Rails
 * * *
