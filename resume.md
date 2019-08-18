@@ -30,9 +30,9 @@ permalink: /resume
 * * *
 
 ### Software Developer
-#### Carolina Code School Demo Project | November 2018
+#### Life Pawtners | Carolina Code School Demo Project | November 2018
 
-*   After 9 weeks of intensive course work, I created this app in about 2.5 weeks.
+*   After 9 weeks of intensive course work, I created the Life Pawtners app in about 2.5 weeks.
 *   Using IBM Watson’s Visual Recognition program and Petfinder’s API, Life Pawtners allows users to upload images of animals they think look awesome and find local adoptable cats and dogs that are similar to the animals they love. The available pets are then mapped based on location using the Google Maps API.
 *   _Ruby, Rails, HTML, JavaScript, CSS, React, jQuery, Petfinder API, IBM Watson Visual Recognition API, Google Maps API_
 
