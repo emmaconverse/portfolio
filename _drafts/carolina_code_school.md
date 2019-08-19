@@ -16,13 +16,13 @@ Before I was able to create Life Pawtners though, I learned the basics of _HTML/
 # HTML and CSS
 * * *
 
-We were given mockups that we had to implement in static HTML files as close to pixel perfect as we could. Here are a few from my **[New York 1](https://github.com/emmaconverse/ccs_new_york_layout_1)** and **[New York 2](https://github.com/emmaconverse/ccs_new_york_layout_2)** layouts we were given.
+<div class="project-text" markdown="1">
+  We were given mockups that we had to implement in static HTML files as close to pixel perfect as we could. Here are a few from my **[New York 1](https://github.com/emmaconverse/ccs_new_york_layout_1)** and **[New York 2](https://github.com/emmaconverse/ccs_new_york_layout_2)** layouts we were given.
 
-![home](../assets/images/ny-3.png){:width="90%"}
-* * *
-![home](../assets/images/ny-4.png){:width="90%"}
-* * *
-![home](../assets/images/ny-2.png){:width="90%"}
+  ![home](../assets/images/ny-3.png#inline-block){:width="49%"}
+  ![home](../assets/images/ny-2.png#inline-block){:width="49%"}
+</div>
+
 
 * * *
 # JavaScript
@@ -55,7 +55,7 @@ function removeSpacesReverse(argument) {
 
 When we started on Ruby we began with very simple apps with few models and associations. Our first project was a **[Bookstore](https://github.com/emmaconverse/ecommerce_bookstore)** that taught us how simple models and controllers work within Rails. Below is a screenshot from the second rails app I created with teammates, **[Blue Review](https://github.com/emmaconverse/blue_review)**, which was also setup like a simple bookstore.
 
-![home](../assets/images/blue-review.png){:width="90%"}
+![home](../assets/images/blue-review.png){:width="40%"}
 
 Blue Review's Bookstore example of basic model associations with join tables:
 ```Ruby
