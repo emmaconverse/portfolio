@@ -15,11 +15,11 @@ body {
 }
 
 nav {
-  width: 100%;
-  background-color: #c3c3c3;
+  border-bottom: solid 1px #095263;
   margin: 0px auto 20px auto;
-  text-align: center;
   position: relative;
+  text-align: center;
+  width: 100%;
 }
 
 tr {
@@ -32,7 +32,7 @@ tr {
 }
 
 #active:hover, #active:focus {
-  background-color: #828282;
+  background-color: #d7becf;
 }
 
 .btn--email {
@@ -58,12 +58,12 @@ tr {
 }
 
 .btn--nav:hover, .btn--nav:focus {
-  background-color: #828282;
+  background-color: #d7becf;
   text-decoration: none;
 }
 
 .btn--nav {
-  background-color: #c3c3c3;
+  background-color: #f6f7f8;
   border: none;
   color: #095263;
   margin: 0px;
@@ -162,4 +162,37 @@ tr {
 
 .inline  {
   display: inline-block;
+}
+
+.project-code-block {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 700px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.project-code-block pre {
+  width: 60%;
+}
+
+.project-code-block p {
+  width: 30%;
+}
+
+.project-block p {
+  width: 100%;
+}
+
+.project-images {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.project-images img {
+  width: 45%;
 }

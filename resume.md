@@ -4,7 +4,9 @@ title: Resume
 permalink: /resume
 ---
 
-**[Download Resume Here]({{ site.url }}/assets/E.Converse.ResumePDF.2019.pdf)**
+**[ + Download Resume Here]({{ site.url }}/assets/E.Converse.ResumePDF.2019.pdf)**
+
+* * *
 
 ## **Education**
 
