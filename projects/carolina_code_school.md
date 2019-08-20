@@ -31,17 +31,30 @@ Before I was able to create Life Pawtners though, I learned the basics of _HTML/
 
 I created a variety of JavaScript projects from simple text analyzing projects to creating calculators and shopping carts.
 
-You can view my Calculator below or on **[CodePen along](https://codepen.io/emmaconverse/pen/KKPgrrG)** with my **[Palindrome Detector](https://codepen.io/emmaconverse/pen/VwZKqwp)**
-- For the palindrome detector, change the `sampleText` and run the console. (_Hint_: "`tacocat`" should output a `true` result.)
+You can view my Calculator and Palindrome detector below or on **[CodePen along](https://codepen.io/emmaconverse)**
 
 #### Calculator
 
-<p class="codepen" data-height="443" data-theme-id="0" data-default-tab="js,result" data-user="emmaconverse" data-slug-hash="KKPgrrG" style="height: 443px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Calculator">
+<p class="codepen" data-height="450" data-theme-id="0" data-default-tab="js,result" data-user="emmaconverse" data-slug-hash="KKPgrrG" style="height: 450px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Calculator">
   <span>See the Pen
     <a href="https://codepen.io/emmaconverse/pen/KKPgrrG/">Calculator</a>
     by Emma Converse Hunter (<a href="https://codepen.io/emmaconverse">@emmaconverse</a>)
     on <a href="https://codepen.io">CodePen</a>.
   </span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+* * *
+
+#### Palindrome Detector
+(_Hint_: a palindrome is a word, phrase, or sequence that reads the same backward as forward,
+
+"`Tacocat`" is a palindrome)
+
+<p class="codepen" data-height="450" data-theme-id="0" data-default-tab="js,result" data-user="emmaconverse" data-slug-hash="VwZKqwp" style="height: 450px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Palindrome Detector">
+  <span>See the Pen <a href="https://codepen.io/emmaconverse/pen/VwZKqwp/">
+  Palindrome Detector</a> by Emma Converse Hunter (<a href="https://codepen.io/emmaconverse">@emmaconverse</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
