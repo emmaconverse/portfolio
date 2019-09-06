@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume
 ---
 
-**[ + Download Resume Here]({{ site.url }}/assets/E.Converse.ResumePDF.condensed.2019.pdf)**
+**[ + Download Resume Here]({{ site.url }}/assets/E.Converse.Resume.pdf)**
 
 * * *
 
@@ -23,9 +23,10 @@ permalink: /resume
 #### Division of Labor, Inc. | November 2018 – Present
 
 *   Core engineer on [OffSite]({{ site.offsite_details }}), a venture backed digital marketing app
-*   OffSite is a fairly complex Rails application with a set of features on top of Google Ads that allows parties to share Google Ads audiences without disclosing a user’s personally identifiable information
+*   OffSite is a complex Rails application with a set of features on top of Google Ads that allows parties to share Google Ads audiences without disclosing a user’s personally identifiable information
 *   Built the initial onboarding flow for new users and created an invitation system for current users to invite new users
 *   Created elaborate ActiveJobs and tasks that pull data from Google Ads API and updates user data in our database when necessary on the user’s behalf
+*   Developed features on client projects using Ruby on Rails
 - Major Components used in OffSite
   - _Google Ads API, Devise, Honey Badger, Stripe, AASM state machines, Simple Form, Activity Notification, Sidkiq, Simple Scheduler, VCR_
 

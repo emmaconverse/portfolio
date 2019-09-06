@@ -6,11 +6,11 @@ permalink: projects/carolina_code_school
 
 # Carolina Code School
 
-I took a 12 week, full time, and immersive full stack web development course through **[Carolina Code School](https://carolinacodeschool.org/)** located in Greenville, SC. After 9 weeks of intense course work, we created final projects during the last few weeks to demo to the community.
+I had zero experience in software development before I took a 12 week and immersive full stack web development course through **[Carolina Code School](https://carolinacodeschool.org/)** in Greenville, SC. After 9 weeks of intense course work, I created a final project in 2.5 weeks to demo to the community.
 
-I created **[Life Pawtners]({{site.life_pawtners_details}})**, live app: **[here](https://lifepawtners.herokuapp.com/)**.
+I created Life Pawtners, which utilizes IBM Watson's Visual Recognition program along with the Petfinder API and Google Maps API to help people find animals available for adoption based on pictures they upload to the app. You can see more details **[here]({{site.life_pawtners_details}})**, or the live app **[here](https://lifepawtners.herokuapp.com/)**.
 
-Before I was able to create Life Pawtners though, I learned the basics of _HTML/CSS_. _JavaScript_, and _Ruby on Rails_.
+Before I was able to create Life Pawtners though, I learned the basics of _HTML/CSS_. _JavaScript_, and _Ruby on Rails_. I've come a long way since taking this course, but I'm still proud of what I was able to learn and accomplish in such a short amount of time.
 
 * * *
 ### HTML and CSS
@@ -31,7 +31,7 @@ Before I was able to create Life Pawtners though, I learned the basics of _HTML/
 
 I created a variety of JavaScript projects from simple text analyzing projects to creating calculators and shopping carts.
 
-You can view my Calculator and Palindrome detector below or on **[CodePen along](https://codepen.io/emmaconverse)**
+You can view my Calculator and Palindrome detector below or on **[CodePen](https://codepen.io/emmaconverse)**
 
 #### Calculator
 
